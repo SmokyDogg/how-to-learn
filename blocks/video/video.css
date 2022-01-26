@@ -1,0 +1,15 @@
+.video {
+    margin: 0 auto;
+    padding-top: 100px;
+  }
+  .video__iframes {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    transform:translateY(50px);
+   }
+  .video__iframe{
+    width: 515px;
+    height: 316px;
+    margin: 50px 10px 0;
+  }
