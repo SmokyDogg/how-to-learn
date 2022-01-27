@@ -1,4 +1,5 @@
 @import url(../vendor/normalize.css);
+@import url(../styles/style.css);
 @import url(../vendor/fonts.css);
 @import url(../vendor/triangle-rotation.css);
 @import url(../blocks/logo/logo.css);
@@ -69,4 +70,3 @@
 @import url(../blocks/footer/footer__columns/footer_column_content/footer_column_content_info/footer_column_content_info.css);
 @import url(../blocks/footer/footer__columns/footer_column_content/footer_column_content_social/footer__social-icon/footer__social-icon.css);
 @import url(../blocks/footer/footer__columns/footer_column_content/footer_column_content_social/footer_column_content_social.css);
-
