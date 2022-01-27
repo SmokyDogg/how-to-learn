@@ -1,52 +1,14 @@
+@import url(../khan/khan__author/khan__author.css);
+@import url(../khan/khan__book-container/khan__book-container.css);
+@import url(../khan/khan__book-pic/khan__book-pic.css);
+@import url(../khan/khan__buy-link/khan__buy-link.css);
+@import url(../khan/khan__container/khan__container.css);
+@import url(../khan/khan__quote-author-subline/khan__quote-author-subline.css);
+@import url(../khan/khan__quote-author/khan__quote-author.css);
+@import url(../khan/khan__quote/khan__quote.css);
+@import url(../khan/khan__title/khan__title.css);
 .khan { 
     margin: 0 auto;
     background-color: #f2f2f2;
     padding-top: 100px;
   }
-  .khan__container {
-    width: 80%;
-    margin: 0 auto;
-   }
-  .khan__author {
-    line-height: 42px;
-    font-size: 30px;
-   }
-  .khan__title {
-    line-height: 1.15;
-    font-size: 60px;
-   }
-  .khan__quote {
-    line-height: 34px;
-    font-size: 24px;
-    margin-top: 50px;
-   }
-  .khan__quote-author {
-    line-height: 1.15;
-    font-size: 24px;
-    margin-top: 36px;
-   }
-  .khan__quote-author-subline {
-    line-height: 1.15;
-    font-size: 24px;
-    margin-top: 10px;
-   }
-  .khan__book-container {
-    margin-top: 60px;
-    display: flex;
-   }
-  .khan__book-pic {
-    object-fit: contain;
-    width: 608px;
-    height: 620px;
-    margin-right: 48px;
-   }
-  .khan__buy-link {
-    line-height: 42px;
-    font-size: 30px;
-    text-decoration: none;
-    color: #2f80ed;
-    transition: all 0.5s ease;
-   }
-   .khan__buy-link:hover{
-    color: orchid;
-   }

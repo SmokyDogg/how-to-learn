@@ -1,23 +1,10 @@
+@import url(../digits/__table/table.css);
+@import url(../digits/__table/_table__cell/table__cell.css);
+@import url(../digits/__table/_table__heading/table__heading.css);
+@import url(../digits/__table/_table__text/table__text.css);
+@import url(../section-title/section-title.css);
+@import url(../section-subtitle/section-subtitle.css);
 .digits {
     margin: 0 auto;
     padding: 100px 0;
-   }
-  .table { 
-    max-width: 1100px;
-    display: flex;
-    flex-wrap: wrap;
-    margin: auto;
-    justify-content: space-between;
-  }
-  .table__cell { 
-    margin-top: 60px;
-    width: 250px;
-  }
-  .table__heading {
-    line-height: 1.15;
-    font-size: 24px;
-   }
-  .table__text {
-    line-height: 1.2;
-    font-size: 18px;
    }
