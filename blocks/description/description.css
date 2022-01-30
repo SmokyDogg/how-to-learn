@@ -1,8 +1,3 @@
-@import url(./description__two-columns/two-columns.css);
-@import url(./description__two-columns/two-columns_brief/two-columns__brief.css);
-@import url(./description__two-columns/two-columns_main-text/two-columns__main-text.css);
-@import url(./description__two-columns/two-columns_paragraph/two-columns__paragraph.css);
-@import url(./description__two-columns/two-columns_span-accent/two-columns_span-accent.css);
 .description {
     padding-top: 100px;
   }

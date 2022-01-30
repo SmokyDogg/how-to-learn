@@ -1,8 +1,4 @@
-@import url(../feynman/feynman__link/feynman__link.css);
-@import url(../feynman/feynman__subtitle/feynman__subtitle.css);
-@import url(../feynman/feynman__title/feynman__title.css);
 .feynman {
-    max-height: 890px;
     min-height: 890px;
     position: relative;
     padding-top: 100px;
