@@ -1,12 +1,12 @@
 .feynman__link {
-    position: absolute;
-    right: 48px;
-    line-height: 51px;
-    font-size: 36px;
-    text-decoration: none;
-    color: #2f80ed;
-    transition: all 0.5s ease;
-   }
-.feynman__link:hover{
-     color: orchid;
-   }
+  position: absolute;
+  right: 48px;
+  line-height: 51px;
+  font-size: 36px;
+  text-decoration: none;
+  color: #2f80ed;
+  transition: all 0.5s ease;
+}
+.feynman__link:hover {
+  color: orchid;
+}

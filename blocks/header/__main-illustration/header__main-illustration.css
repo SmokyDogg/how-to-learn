@@ -1,10 +1,10 @@
-.header__main-illustation{
-    position: absolute;
-    width: 765px;
-    height: 608px;
-    right: 0;
-    bottom: 0;
-    object-position: right bottom;
-    object-fit: cover;
-    z-index: 1;
-  }
+.header__main-illustation {
+  position: absolute;
+  width: 765px;
+  height: 608px;
+  right: 0;
+  bottom: 0;
+  object-position: right bottom;
+  object-fit: cover;
+  z-index: 1;
+}
